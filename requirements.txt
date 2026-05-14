@@ -1,0 +1,12 @@
+# Network Scanning Project — Requirements
+# Author: Sachin Kumar | sachinyadav2063@gmail.com
+#
+# Install all dependencies:
+#   pip install -r requirements.txt
+#
+# Also requires Nmap installed on your OS:
+#   Linux  : sudo apt install nmap
+#   macOS  : brew install nmap
+#   Windows: https://nmap.org/download.html
+
+python-nmap==0.7.1
